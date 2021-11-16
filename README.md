@@ -8,7 +8,7 @@ This repo contains the following folders and files:
   * [shop drawings](brackets/shop_drawings) - PDF technical drawings with dimensions
 * [rail profiles](rail_profiles) - accurate models and drawings of different rail types
   * [fusion 360 3d models](rail_profiles/fusion_360_3d_models) - Fusion 360 3D designs of the rails for reference, rendering, or including in a case design
-  * [profile 2d files](rail_profiles/bracket_2d_files) - DXF files of the rail profiles
+  * [profile 2d files](rail_profiles/profile_2d_files) - DXF files of the rail profiles
 
 ## Notes
 
